@@ -1,6 +1,6 @@
 # BasicMvvm
 
-Basic Implementation of the MVVM pattern for WPF, UWP & WPF Core.
+Basic Implementation of the MVVM pattern for WPF, UWP & Uno Platform.
 Artifact included:-
 - BindableBase
 - DelegateCommand
